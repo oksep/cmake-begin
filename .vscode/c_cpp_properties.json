@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/v1_basic/include",
+                "${workspaceFolder}/v2_gen_lib/include",
+                "${workspaceFolder}/v3_link_static_lib/include",
+                "${workspaceFolder}/v4_link_shared_lib/include",
+                "${workspaceFolder}/v5_nested_project/include",
+                "${workspaceFolder}/v6_static_link_static_lib/include",
+                "${workspaceFolder}/v7_static_link_shared_lib/include",
+                "${workspaceFolder}/python_binding/vcpkg_installed/arm64-osx/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}

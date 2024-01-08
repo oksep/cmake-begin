@@ -1,0 +1,1 @@
+see: https://blog.septenary.cn/cmake-one-shot/

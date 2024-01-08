@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "filesystem": "cpp",
+        "*.ipp": "cpp"
+    },
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/vcpkg/scripts/buildsystems/vcpkg.cmake"
+    }
+}
